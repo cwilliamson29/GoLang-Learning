@@ -16,4 +16,5 @@ func main() {
 	fmt.Println(addon.Bark())
 	fmt.Println(addon.Barks())
 
+	// testing version
 }
