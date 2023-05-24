@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+)
 
 func main() {
 	for i := 0; i < 100; i++ {
@@ -8,5 +11,6 @@ func main() {
 			continue
 		}
 		fmt.Printf("%v is ODD\n", i)
+		log.Println("asdfp")
 	}
 }
