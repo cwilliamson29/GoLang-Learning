@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cwilliamson29/GoLang-Learning/blob/main/Learning-11/helpers"
+	"github.com/cwilliamson29/GoLang-Learning/blob/main/Learning-11/helpers/helpers"
 	"log"
 )
 
